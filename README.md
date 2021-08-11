@@ -1,24 +1,45 @@
-# README
+# Oshi活 Supporter
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## サイト概要
+昨今の音楽ライブ活動を行うアーティストの増加に伴い、ファン同士の集まり（コミュニティー）の数も増加していますが、それらのコミュニティーが交流する機会を作ることが難しくなっています。そこで、ライブコミュニティーサイト（推し活応援サイト）を立ち上げます。
+推し活応援サイトの機能は主に3つあります。
+ イベントや公演情報の集約（日時や場所）
+ アーティストライブの視聴者が感想共有（★評価や文章コメントレビュー）
+ おすすめライブ・イベントの通知・提案
+この推し活応援サイトが活用されることで、個々のファンは応援しているアーティスト活動を、より一層盛り上げることができると期待されます。
 
-Things you may want to cover:
+### サイトテーマ
+音楽アーティストのファン活動を活性化すること。
 
-* Ruby version
+### テーマを選んだ理由
+理由・背景
+私自身が音楽ライブに行くのが好きで、ライブに言った感想を言い合えるサイトがあったらいいと思ったからです。しかし、twitterやinstagramなどのSNSサイトでは、ファン同士の交流は情報フローとして流れ去ってしまっていると感じています。ファン同士で好きなアーティスト活動の応援ができる新しいwebサイトを作ろうと考えました。
 
-* System dependencies
+利益
+このサイトでは、ファン同士に音楽活動の応援体験の共有感覚を提供することができると考えています。
 
-* Configuration
+需要
+特に規模の小さいファンコミュニティには、ライブ活動自体の自粛や、開催規模の縮小などが求められている昨今の情勢も相まって、応援体験の共有が難しくなっていると考えられます。このサイトにはこうした中小規模のファンコミュニティからの需要が期待されます。
 
-* Database creation
 
-* Database initialization
+### ターゲットユーザ
+音楽が好きな人、特にライブに行く人、ライブ活動に参加しづらい環境の人
 
-* How to run the test suite
+### 主な利用シーン
+ライブに行った、観たあとの感想を教えてあげたいとき
+もしくは、行けなかったライブの様子を知りたいとき
+一緒にイベントに参加する際や合間の休憩時間などで、ファン同士の交流をしたいと思ったとき
+## 設計書
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
+## チャレンジ要素一覧
+https://docs.google.com/spreadsheets/d/1h-U0-E_ItHVCjZGVzhgMRA6WBpd8clXX0B5Q4uKI7fM/edit#gid=0
 
-* ...
+## 開発環境
+- OS：Linux(CentOS)
+- 言語：HTML,CSS,JavaScript,Ruby,SQL
+- フレームワーク：Ruby on Rails
+- JSライブラリ：jQuery
+- IDE：Cloud9
+
+## 使用素材
